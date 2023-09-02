@@ -14,7 +14,7 @@ The primary purpose of this project is to leverage HR analytics to:
 2. Identify key HR performance metrics.
 3. Create interactive operational dashboards for real-time monitoring and decision-making.
 
-By achieving these objectives, we aim to improve HR processes, optimize workforce management, and enhance overall organizational performance.
+By achieving these objectives, I aim to improve HR processes, optimize workforce management, and enhance overall organizational performance.
 
 ---
 
@@ -24,27 +24,7 @@ I collected and utilized data from kaggle. Data from this source was cleaned, tr
 
 ---
 
-## Approach
-
-## Data Gathering and Preprocessing
-
-- Data was collected from various sources and stored in a central database.
-- Missing and erroneous data were addressed through data cleansing techniques.
-
-## Data Analysis
-
-- Descriptive statistics were used to gain initial insights into the data.
-- Exploratory data analysis (EDA) techniques were applied to identify patterns and trends.
-
-## Dashboard Development
-
-- Interactive dashboards were created using Tableau to visualize key HR metrics.
-- Dashboards were designed to be user-friendly and customizable for different stakeholders.
-
----
-
 # Approach
-
 ## Data Gathering and Preprocessing
 
 - Data was collected from various sources and stored in a central database.
@@ -58,12 +38,10 @@ I collected and utilized data from kaggle. Data from this source was cleaned, tr
 
 ## Dashboard Development
 
-- Interactive dashboards were created using [Tool Name] to visualize key HR metrics.
+- Interactive dashboards were created using Tableau to visualize key HR metrics.
 - Dashboards were designed to be user-friendly and customizable for different stakeholders.
 
 ---
-
-# Data Analysis
 
 ## Key Findings
 
@@ -76,7 +54,11 @@ Here are some of the key findings from our data analysis:
 
 ## Visualizations
 
----
+---![Power BI HR Dashboard-1](https://github.com/VictorOluniyi/HR-Dashboard-Tableau/assets/115374063/988a9534-1b54-4f09-aced-e32e2031f538)
+
+![Power BI HR Dashboard-2](https://github.com/VictorOluniyi/HR-Dashboard-Tableau/assets/115374063/c54cbd5d-a65e-4a8a-99be-2a727529c997)
+
+![Power BI HR Dashboard-3](https://github.com/VictorOluniyi/HR-Dashboard-Tableau/assets/115374063/3db5a6c6-38d0-4139-b91d-c5dbac5a5b82)
 
 # Recommendations
 
